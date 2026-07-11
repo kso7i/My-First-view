@@ -25,6 +25,7 @@
 ## Preview / 软件预览 / プレビュー
 
 <img width="1663" height="860" alt="2026-07-11_14-49-16" src="https://github.com/user-attachments/assets/2474aa54-9d20-491e-b185-6e1a0669465f" />
+<img width="1663" height="860" alt="2026-07-11_15-04-01" src="https://github.com/user-attachments/assets/55b2b1c8-6838-4d2c-bd53-03fecd27cc6f" />
 
 
 
