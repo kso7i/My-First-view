@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/My-First-view-logo.png" width="180" alt="My-First-view Logo">
-</p>
 
 <h1 align="center">My-First-view 10.10</h1>
 
@@ -27,11 +24,9 @@
 
 ## Preview / 软件预览 / プレビュー
 
-> 将主界面截图保存为 `docs/images/main-window.png` 后，GitHub 会自动显示。  
-> Save the main-window screenshot as `docs/images/main-window.png`.  
-> メイン画面のスクリーンショットを `docs/images/main-window.png` に保存してください。
+<img width="1663" height="860" alt="2026-07-11_14-49-16" src="https://github.com/user-attachments/assets/2474aa54-9d20-491e-b185-6e1a0669465f" />
 
-![My-First-view main window](docs/images/main-window.png)
+
 
 ---
 
