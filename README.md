@@ -20,9 +20,7 @@
 
 ## Preview / 软件预览
 
-> 将软件截图放到 `docs/images/main-window.png` 后，GitHub 会自动显示。
 
-![My-First-view main window](docs/images/main-window.png)
 
 ---
 
