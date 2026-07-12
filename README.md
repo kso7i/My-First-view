@@ -1,5 +1,5 @@
 
-<h1 align="center">My-First-view 10.10</h1>
+<h1 align="center">My-First-view </h1>
 
 <p align="center">
   A Windows image viewer with Explorer-style sorting, multi-view layouts, RAW/NEF support, fast preview, tray integration, and multilingual UI.<br>
